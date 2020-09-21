@@ -1,2 +1,2 @@
 ### 0x00. Shell, basics
-* Shell, basic
+* Shell, basic 2.0
